@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="true">
+    <item android:drawable="@drawable/relax_020" android:duration="1600" />
+    <item android:drawable="@drawable/relax_021" android:duration="100" />
+    <item android:drawable="@drawable/relax_022" android:duration="2000" />
+    <item android:drawable="@drawable/relax_023" android:duration="100" />
+    <item android:drawable="@drawable/relax_024" android:duration="1200" />
+    <item android:drawable="@drawable/relax_020" android:duration="1600" />
+    <item android:drawable="@drawable/relax_021" android:duration="100" />
+    <item android:drawable="@drawable/relax_022" android:duration="2000" />
+    <item android:drawable="@drawable/relax_023" android:duration="100" />
+    <item android:drawable="@drawable/relax_024" android:duration="1200" />
+</animation-list>
